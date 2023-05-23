@@ -1,0 +1,18 @@
+
+@import url(header.css);
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+    --cor-um: #EB9B00;
+    --cor-dois: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --fonte-um: "Poppins";
+
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-um);
+    font-size: 16px;
+    font-weight: 400;
+
+}
